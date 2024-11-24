@@ -78,6 +78,9 @@ https://github.com/NorthernWarrior88/homework
 
 https://github.com/NorthernWarrior88/homework/network
 
+![Uploading изображение.png…]()
+
+
 ---
 ## Дополнительные задания* (со звёздочкой)
 
