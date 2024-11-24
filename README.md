@@ -51,6 +51,8 @@ https://github.com/NorthernWarrior88/homework
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+https://github.com/NorthernWarrior88/homework
+
 ---
 
 ### Задание 3
