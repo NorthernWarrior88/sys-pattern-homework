@@ -102,3 +102,6 @@ https://github.com/NorthernWarrior88/homework/network
 7. Сделайте мердж ветки conflict в основную ветку и решите конфликт так, чтобы в результате в файле оказался код из ветки conflict.
 
 В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
+
+
+https://github.com/NorthernWarrior88/homework/network
